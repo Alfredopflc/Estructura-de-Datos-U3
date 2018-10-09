@@ -1,0 +1,7 @@
+c:\users\pimpo\source\repos\E3.1-VenegasMedinaJoseAlfredo_\E3.1-VenegasMedinaJoseAlfredo_\bin\Debug\E3.1-VenegasMedinaJoseAlfredo_.exe.config
+c:\users\pimpo\source\repos\E3.1-VenegasMedinaJoseAlfredo_\E3.1-VenegasMedinaJoseAlfredo_\bin\Debug\E3.1-VenegasMedinaJoseAlfredo_.exe
+c:\users\pimpo\source\repos\E3.1-VenegasMedinaJoseAlfredo_\E3.1-VenegasMedinaJoseAlfredo_\bin\Debug\E3.1-VenegasMedinaJoseAlfredo_.pdb
+c:\users\pimpo\source\repos\E3.1-VenegasMedinaJoseAlfredo_\E3.1-VenegasMedinaJoseAlfredo_\obj\Debug\E3.1-VenegasMedinaJoseAlfredo_.csprojResolveAssemblyReference.cache
+c:\users\pimpo\source\repos\E3.1-VenegasMedinaJoseAlfredo_\E3.1-VenegasMedinaJoseAlfredo_\obj\Debug\E3.1-VenegasMedinaJoseAlfredo_.csproj.CoreCompileInputs.cache
+c:\users\pimpo\source\repos\E3.1-VenegasMedinaJoseAlfredo_\E3.1-VenegasMedinaJoseAlfredo_\obj\Debug\E3.1-VenegasMedinaJoseAlfredo_.exe
+c:\users\pimpo\source\repos\E3.1-VenegasMedinaJoseAlfredo_\E3.1-VenegasMedinaJoseAlfredo_\obj\Debug\E3.1-VenegasMedinaJoseAlfredo_.pdb
