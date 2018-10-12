@@ -1,0 +1,7 @@
+C:\Users\PC\source\repos\AC.3-2-VenegasMedinaJoseAlfredo\AC.3-2-VenegasMedinaJoseAlfredo\obj\Debug\AC.3-2-VenegasMedinaJoseAlfredo.csprojAssemblyReference.cache
+C:\Users\PC\source\repos\AC.3-2-VenegasMedinaJoseAlfredo\AC.3-2-VenegasMedinaJoseAlfredo\obj\Debug\AC.3-2-VenegasMedinaJoseAlfredo.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\AC.3-2-VenegasMedinaJoseAlfredo\AC.3-2-VenegasMedinaJoseAlfredo\bin\Debug\AC.3-2-VenegasMedinaJoseAlfredo.exe.config
+C:\Users\PC\source\repos\AC.3-2-VenegasMedinaJoseAlfredo\AC.3-2-VenegasMedinaJoseAlfredo\bin\Debug\AC.3-2-VenegasMedinaJoseAlfredo.exe
+C:\Users\PC\source\repos\AC.3-2-VenegasMedinaJoseAlfredo\AC.3-2-VenegasMedinaJoseAlfredo\bin\Debug\AC.3-2-VenegasMedinaJoseAlfredo.pdb
+C:\Users\PC\source\repos\AC.3-2-VenegasMedinaJoseAlfredo\AC.3-2-VenegasMedinaJoseAlfredo\obj\Debug\AC.3-2-VenegasMedinaJoseAlfredo.exe
+C:\Users\PC\source\repos\AC.3-2-VenegasMedinaJoseAlfredo\AC.3-2-VenegasMedinaJoseAlfredo\obj\Debug\AC.3-2-VenegasMedinaJoseAlfredo.pdb
