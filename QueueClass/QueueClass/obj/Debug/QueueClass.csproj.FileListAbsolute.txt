@@ -1,0 +1,7 @@
+C:\Users\PC\source\repos\QueueClass\QueueClass\bin\Debug\QueueClass.exe.config
+C:\Users\PC\source\repos\QueueClass\QueueClass\bin\Debug\QueueClass.exe
+C:\Users\PC\source\repos\QueueClass\QueueClass\bin\Debug\QueueClass.pdb
+C:\Users\PC\source\repos\QueueClass\QueueClass\obj\Debug\QueueClass.csprojAssemblyReference.cache
+C:\Users\PC\source\repos\QueueClass\QueueClass\obj\Debug\QueueClass.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\QueueClass\QueueClass\obj\Debug\QueueClass.exe
+C:\Users\PC\source\repos\QueueClass\QueueClass\obj\Debug\QueueClass.pdb
